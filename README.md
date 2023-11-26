@@ -1,5 +1,5 @@
 # Clustering Algorithms in Machine Learning
-This repository contains a collection of Jupyter notebooks hosted on Google Colab, each demonstrating a different clustering algorithm. These notebooks are designed to provide a hands-on understanding of various clustering techniques used in machine learning.
+This repository contains a collection of Collab notebooks hosted on Google Colab, each demonstrating a different clustering algorithm. These notebooks are designed to provide a hands-on understanding of various clustering techniques used in machine learning.
 
 ## Contents
 ### K-Means Clustering from Scratch: Implementation of the K-Means clustering algorithm from scratch.
