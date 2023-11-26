@@ -1,23 +1,34 @@
-# Clustering-Assignment
+# Clustering Algorithms in Machine Learning
+This repository contains a collection of Jupyter notebooks hosted on Google Colab, each demonstrating a different clustering algorithm. These notebooks are designed to provide a hands-on understanding of various clustering techniques used in machine learning.
 
-## a) K-Means clustering from scratch
+## Contents
+### K-Means Clustering from Scratch: Implementation of the K-Means clustering algorithm from scratch.
 Committed collab file with name as: a) K-Means clustering from scratch.ipynb
-## b) Hierarchical clustering (not from scratch)
+
+### Hierarchical Clustering: Application of hierarchical clustering algorithm on datasets.
 Committed collab file with name as: b) Hierarchical clustering (not from scratch).ipynb
-## c) Gaussian mixture models clustering (not from scratch)
+
+### Gaussian Mixture Models Clustering: Utilization of Gaussian Mixture Models for clustering.
 Committed collab file with name as: c)_Gaussian_mixture_models_clustering_(not_from_scratch).ipynb
-## d) DB Scan clustering (not from scratch) using pycaret library 
+
+### DBSCAN Clustering Using PyCaret: Demonstration of DBSCAN clustering using the PyCaret library.
 Committed collab file with name as: d) DB Scan clustering (not from scratch) using pycaret library .ipynb
-## e) Demonstrate anomaly detection using pyOD using any usecase
+
+### Anomaly Detection Using pyOD: Illustration of anomaly detection in datasets using pyOD.
 Committed collab file with name as: e) Demonstrate anomaly detection using pyOD using any usecase.ipynb
-## f) Illustrate clustering of timeseries data using pretrained models 
+
+### Clustering of Time Series Data Using Pretrained Models: Application of pretrained models for clustering time series data.
 Committed collab file with name as: f) Illustrate clustering of timeseries data using pretrained models.ipynb
-## g) Write a colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).
+
+### Clustering of Documents Using State-of-the-Art Embeddings: Exploration of document clustering using LLM embeddings.
 Committed collab file with name as: g) Write a colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).ipynb
-## h) Write a colab for clustering with images using imagebind llm embeddings 
+
+### Clustering with Images Using ImageBind LLM Embeddings: Implementation of clustering on images using ImageBind LLM embeddings.
 Committed collab file with name as: h) Write a colab for clustering with images using imagebind llm embeddings.ipynb
-## i) Write a colab for audio embeddings using imagebind llms
+
+### Audio Embeddings Using ImageBind LLMs: Clustering of audio files using ImageBind LLM embeddings.
 Committed collab file with name as: i) Write a colab for audio embeddings using imagebind llms.ipynb
+
 
 
 
